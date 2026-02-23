@@ -153,4 +153,9 @@ If you encounter errors when generating visualizations:
 - This tool requires administrator/root privileges to capture packets
 - Performance may vary depending on network traffic volume
 - For high-volume networks, consider using the `--count` or `--time` options to limit capture
-- Use responsibly and only on networks you have permission to monitor 
+
+- Use responsibly and only on networks you have permission to monitor
+
+## License
+
+MIT License - See LICENSE file for details
